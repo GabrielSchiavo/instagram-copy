@@ -25,7 +25,7 @@ Após configurar todas essas ferramentas, nos arquivos do projeto edite as confi
 
 Agora crie um importe as configurações do banco de dados no MySQL, utilizando o arquivo DB_insta_copy.sql, localizado na raiz do projeto.
 
-Depois copie a pasta do projeto para a pasta htdocs do XAMPP, normalmente localizada em C:\xampp\htdocs.
+Depois copie a pasta do projeto renomeando-a para "instagram_copy" e cole na pasta htdocs do XAMPP, normalmente localizada em C:\xampp\htdocs.
 
 Agora é digitar a seguinte URL: "http://localhost/instagram_copy/login.php" em seu navegador e o projeto está pronto para ser usado. 
 
