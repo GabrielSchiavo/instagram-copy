@@ -11,6 +11,8 @@ Cópia do website do Instagram para fins de estudo, este projeto foi realizado d
 - `Função sair da conta`: função para o usuário se desconectar da conta.
 
 
+![Página Login](https://user-images.githubusercontent.com/84607831/174880413-5adbf93f-265d-418d-80ce-c1e00ed5fa0e.png)
+![Página Feed](https://user-images.githubusercontent.com/84607831/174880424-aa3e03a3-9f7c-4d3f-b57f-c5967acbd856.png)
 
 ## :file_folder: Acesso ao projeto
 Você pode [acessar o código fonte do projeto](https://github.com/GabrielSchiavo/instagram-copy) ou [baixá-lo](https://github.com/GabrielSchiavo/instagram-copy/archive/refs/heads/master.zip).
