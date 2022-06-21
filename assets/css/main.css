@@ -1,0 +1,392 @@
+body {
+  background: #fafafa;
+}
+
+/* Estilo página feed */
+#feed {
+  margin-top: 5.5rem;
+}
+.navbar {
+  background: white;
+  border-bottom: 1px solid #dbdbdb;
+}
+.navbar li.nav-item:not(:last-child) {
+  margin-right: 5px;
+}
+.navbar li.nav-item a.nav-link {
+  color: #262626;
+}
+.navbar li.nav-item a.nav-link:hover {
+  color: #000000;
+}
+.container {
+  max-width: 975px;
+}
+.stories {
+  display: inline-flex;
+  flex-direction: row;
+  padding: 10px;
+  width: 100%;
+  flex-grow: 1;
+}
+.story{
+  width: 80px;
+  margin-right: 10px;
+}
+.story  img{
+  border-radius: 50%;
+}
+.username {
+  max-width: 76px;
+  margin-top: 5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+  white-space: nowrap;
+}
+.card {
+  border-radius: 0;
+}
+.card-header_feed {   
+  display: inline-flex;   
+  padding: 15px;
+  background: white;
+}
+.card-header_feed .ms-auto {
+  align-self: center;
+}
+.card_username {
+align-self: center;
+padding-left: 15px;
+}
+.card-body_feed {
+  padding: 0;
+}
+.card-body_feed img {
+  border-radius: 0;
+}
+.card-footer {
+  padding: 10px;
+  background: white;
+}
+.card-footer div {
+  display: inline-flex;
+  padding-right: 10px;
+  padding-top: 5px;
+}
+.card-footer .list-group .list-group-item {
+  border: none;
+  padding: 8px;
+}
+.btn-secondary:focus {
+  box-shadow: none;
+}
+.card-header_feed .btn-secondary {
+  border: none;
+  background: white;
+  width: 45px;
+}
+.card-header_feed .btn:hover {
+  box-shadow: none;
+}
+.dropdown-item {
+  font-size: 14px;
+}
+.nav-item ul.dropdown-menu.dropdown-menu-end.show {
+  width: 220px;
+}
+.card-header_feed ul.dropdown-menu.dropdown-menu-end.show {
+  width: 180px;
+}.card-header_feed .dropdown-menu .dropdown-item {
+  text-align: center;
+}
+.card-header_feed .dropdown-menu .dropdown-item b {
+  color: #ed4956;
+}
+
+.card_sugestao {
+  background: transparent;
+  border: none;
+}
+.card_sugestao .card-header_feed {
+  background: transparent;
+  border: none;
+}
+.card_sugestao .card-header_feed .col-7 {
+  align-self: center;
+  font-weight: 600;
+  padding: 3px;
+}
+.card_sugestao .card-header_feed .col-2 {
+  align-self: center;
+}
+.card_sugestao .card-header_feed .col-3 {
+  padding-left: 0;
+}
+.card_sugestao .card-title .col-9 {
+  font-size: 14px;
+  color: #8E8E8E;
+  align-self: flex-end;
+}
+.card_sugestao .card-title .col-3 {
+  text-align: end;
+}
+.div_col-3 {
+  width: 65px;
+}
+.btn_ver_tudo {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 0;
+} 
+.btn_mudar {
+  font-size: 12px;
+  font-weight: 600;
+  color: #0095f6;
+}
+.card_sugestao .card-body_feed .card-text {
+  font-size: 11px;
+  color: #C7C7C7;
+}
+.card_sugestao .card-footer {
+  border: none;
+  background: transparent;
+}
+.card_sugestao button {
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+.btn_seguir {
+  font-size: 12px;
+  font-weight: 600;
+  text-align: end;
+  align-self: center;
+  color: #0095f6;
+}
+.nome_sugestao {
+  font-size: 14px;
+  font-weight: 600;
+  align-self: center;
+}
+.list-group-item {
+  background: transparent;
+  border: none;
+}
+.list-group li .row .col-2, .col-7, .col-3 {
+  padding: 0;
+}
+.pesquisa input {
+  width: 215px;
+  height: 28px;
+  background: #fafafa;
+  margin-left: 244px;
+  font: 14px;
+}
+
+/* Estilo página Login */
+a {
+  text-decoration: none;
+}
+.img_cel {
+  width: 454px;
+  height: 618px;
+  margin-top: 32px;
+}
+.card_login {
+  width: 350px;
+  height: 435px;
+  border-radius: 0;
+}
+.card_login {
+  margin-top: 10px;
+}
+.card2 {
+  height: 63px;
+}
+.card-header_login {
+  background: white;
+  border: none;
+}
+.divLogo_login {
+  text-align: center;
+  margin-top: 22px;
+}
+.logo_login {
+  width: 175px;
+  height: 51px;
+}
+.form {
+  width: 258px;
+}
+.card-body_login .form .form-floating input{
+  background: #fafafa;
+  height: 52px;
+}
+.card-body_login .form .form-floating label {
+  color: #8e8e8e;
+  font-size: 12px;
+}
+label.form-label {
+  width: 100%;
+}
+button.btn.btn-primary {
+  background: #0095f6;
+  width: 100%;
+  font-size: 14px;
+  font-weight: 600;
+}
+.card-footer {
+  text-align: center;
+  font-size: 12px;
+  background: white;
+  border: none;
+}
+.card-footer a {
+  color: black;
+  font-style: normal;
+}
+.card .card-body_login .text_card2 a {
+  font-weight: 600;
+}
+.text_card2 {
+  text-align: center;
+  font-size: 14px;
+  margin: 0;
+}
+.div_img_cel {
+  background-image: url(https://www.instagram.com/static/images/homepage/home-phones.png/43cc71bb1b43.png);
+  height: 600px;
+}
+.div_img_cel .carousel .carousel-inner .carousel-item {
+  width: 240px;
+  height: 427px;
+  margin-top: 100px;
+  margin-left: 151px;
+}
+#btn_face {
+  font-size: 14px;
+  font-weight: 600;
+  background: transparent;
+  border: none;
+}
+#btn_face svg {
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  margin-bottom: 3px;
+}
+.div_btnFace {
+  border-top: 1px solid #dbdbdb;
+}
+button a {
+  color: #385185;
+}
+button a:hover {
+  color: #385185;
+}
+.card2 .card-body_login .text_card2 a:hover {
+  color: #0095f6;
+}
+.card3 {
+  height: 120px;
+  background: transparent;
+  border: none;
+}
+.text_card3 {
+  font-size: 14px;
+  color: #000000;
+  text-align: center;
+}
+.img_loja {
+  width: 136px;
+  height: 40px;
+  margin-left: 5px;
+}
+
+/* Estilo página cadastro */
+.card_cad {
+  width: 350px;
+  border-radius: 0;
+}
+.card-header_cad {
+ background: white;
+ border: none;
+}
+.div_logo_cad {
+ text-align: center;
+ margin-top: 22px;
+}
+.img_logo_cad {
+ width: 175px;
+ height: 51px;
+}
+.form_cad {
+ width: 258px;
+}
+.h2-header {
+ font-size: 17px;
+ color: #8e8e8e;
+ text-align: center;
+ width: 258px;
+}
+.card-footer_cad {
+ text-align: center;
+ font-size: 12px;
+ color: #8e8e8e;
+ background: white;
+ border: none;
+}
+.card-body_cad .form_cad .form-floating input{
+ background: #fafafa;
+ height: 52px;
+}
+.card-body_cad .form_cad .form-floating label {
+ color: #8e8e8e;
+ font-size: 12px;
+}
+button.button_cad .btn .btn-primary {
+ background: #0095f6;
+ font-weight: 600;
+ width: 100%;
+ font-size: 14px;
+ border: none;
+}
+.text_card2_cad {
+ height: 25px;
+ text-align: center;
+ font-size: 14px;
+ margin: 0;
+}
+.button_cad2 {
+ background: #0095f6;
+ font-weight: 600;
+ width: 258px;
+ font-size: 14px;
+ border: none;
+}
+.btn_face {
+ border-bottom: 1px solid #dbdbdb;
+ width: 258px;
+}
+.btn_face button svg {
+ width: 16px;
+ height: 16px; 
+ margin-right: 4px;
+ margin-bottom: 3px;
+}
+.card3 {
+ height: 120px;
+ background: transparent;
+ border: none;
+}
+.text_card3 {
+ font-size: 14px;
+ color: #000000;
+ text-align: center;
+}
+.img_loja {
+ width: 136px;
+ height: 40px;
+ margin-left: 5px;
+}
