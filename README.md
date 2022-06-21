@@ -38,4 +38,3 @@ Agora é digitar a seguinte URL: "http://localhost/instagram_copy/login.php" em 
 * `CSS 3`
 * `XAMPP`
 * `Bootstrap - 5.1.0`
-* `Lorem Picsum`
