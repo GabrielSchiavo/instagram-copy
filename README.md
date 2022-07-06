@@ -1,7 +1,7 @@
 # Instagram Copy
 <p align="left">
     <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge"/>
-    <img src="https://img.shields.io/github/license/GabrielSchiavo/instagram-copy?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/license/GabrielSchiavo/instagram-copy?color=blue&style=for-the-badge"/>
 </p>
 
 Cópia do website do Instagram para fins de estudo, este projeto foi realizado durante as aulas.
