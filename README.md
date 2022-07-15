@@ -26,7 +26,7 @@ Após baixar o projeto, você pode abrir com o Visual Studio Code. Para o projet
 
 Após configurar todas essas ferramentas, nos arquivos do projeto edite as configurações de conexão do banco de dados no arquivo connect_db.php localizado em /database para as suas configurações escolhidas durante a instalação do MySQL.
 
-Agora crie um importe as configurações do banco de dados no MySQL, utilizando o arquivo DB_insta_copy.sql, localizado na raiz do projeto.
+Agora importe as configurações do banco de dados no MySQL, utilizando o arquivo DB_insta_copy.sql, localizado na raiz do projeto.
 
 Depois copie a pasta do projeto renomeando-a para "instagram_copy" e cole na pasta htdocs do XAMPP, normalmente localizada em C:\xampp\htdocs.
 
