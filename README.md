@@ -16,7 +16,7 @@ Cópia do website do Instagram para fins de estudo, este projeto foi realizado d
 ![Página Feed](https://user-images.githubusercontent.com/84607831/174880424-aa3e03a3-9f7c-4d3f-b57f-c5967acbd856.png)
 
 ## :file_folder: Acesso ao projeto
-Você pode [acessar o código fonte do projeto](https://github.com/GabrielSchiavo/instagram-copy) ou [baixá-lo](https://github.com/GabrielSchiavo/instagram-copy/archive/refs/heads/master.zip).
+Você pode [acessar o código-fonte do projeto](https://github.com/GabrielSchiavo/instagram-copy) ou [baixá-lo](https://github.com/GabrielSchiavo/instagram-copy/archive/refs/heads/master.zip).
 
 ## 	:hammer_and_wrench: Abrir e rodar o projeto
 Após baixar o projeto, você pode abrir com o Visual Studio Code. Para o projeto funcionar você deve ter configurado em seu PC:
