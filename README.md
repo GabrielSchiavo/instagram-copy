@@ -32,7 +32,7 @@ Depois copie a pasta do projeto renomeando-a para "instagram_copy" e cole na pas
 
 Agora é digitar a seguinte URL: "http://localhost/instagram_copy/login.php" em seu navegador e o projeto está pronto para ser usado. 
 
-## :heavy_check_mark: Tecnologias utilizadas
+## :white_check_mark: Tecnologias utilizadas
 * `PHP - 8.1.4`
 * `MySQL`
 * `HTML 5`
